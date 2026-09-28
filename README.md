@@ -1,8 +1,7 @@
 # AppWindow Plugin
 Make your skins behave as normal windows that are availabe on the taskbar.
 
-<img width="600" height="400" alt="AppWindow" src="https://github.com/user-attachments/assets/8725bbf5-596f-4a4b-8326-1af347c07626" />
-
+<img width="600" height="400" alt="AppWindow" src="https://github.com/user-attachments/assets/5e631af4-86c6-4bea-864a-5330712e334e" />
 
 Download on the Rainmeter forums:
 [Download](https://forum.rainmeter.net/viewtopic.php?t=46032)
